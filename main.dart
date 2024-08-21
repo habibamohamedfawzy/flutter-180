@@ -159,6 +159,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         title: Text("News App"),
+        centerTitle: true,
         backgroundColor: Colors.amber,
       ),
       body: Column(
